@@ -1,0 +1,5 @@
+GIT HUB COMO SUBIR CAMBIOS
+
+PS C:\xampp\htdocs\personal_crud> git add .
+PS C:\xampp\htdocs\personal_crud> git commit -m "nuevo cambios"
+PS C:\xampp\htdocs\personal_crud> git push origin main
